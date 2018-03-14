@@ -6,8 +6,8 @@ Sistem; bir kullanıcının kar-zarar-satılan ürün miktarı bilgilerini kayı
 <img src="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/kullanıcı%20girişi.PNG" width="200" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
  
  
-<a href="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/kullanıcı%20bilgi%20güncelleme.PNG" target="_blank">
-<img src="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/kullanıcı%20bilgi%20güncelleme.PNG" width="200" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/kayıt%20işlemi.PNG" target="_blank">
+<img src="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/kayıt%20işlemi.PNG" width="200" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;
  
 <a href="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/depoda%20kalan%20ürünler.PNG" target="_blank">
 <img src="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/depoda%20kalan%20ürünler.PNG" width="200" style="max-width:100%;"></a>      
@@ -18,8 +18,9 @@ Sistem; bir kullanıcının kar-zarar-satılan ürün miktarı bilgilerini kayı
 <a href="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/ürün%20sil.PNG" target="_blank">
 <img src="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/ürün%20sil.PNG" width="200" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;     
  
-<a href="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/kayıt%20işlemi.PNG" target="_blank">
-<img src="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/kayıt%20işlemi.PNG" width="200" style="max-width:100%;"></a>
+ <a href="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/kullanıcı%20bilgi%20güncelleme.PNG" target="_blank">
+<img src="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/kullanıcı%20bilgi%20güncelleme.PNG" width="200" style="max-width:100%;"></a>
+
 
 <p>
 <a href="https://github.com/KURUCAY/CariHesapOtomasyonu/blob/master/proje%20ekran%20görüntüleri/kategori%20sil.PNG" target="_blank">
